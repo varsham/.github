@@ -31,12 +31,16 @@ theme: slate
 .hero h2 {
   margin: 0;
   max-width: 34em;
-  font-size: 20px;
+  font-size: 30px;
   font-style: initial;
   font-weight: 500;
   line-height: 1.5;
   text-align: center;
   color: #7eade6;
+}
+
+.hero p {
+  font-size: 20px;
 }
 
 @media (min-width: 640px) {
