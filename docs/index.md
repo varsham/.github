@@ -64,7 +64,7 @@ theme: slate
 |-|-|-|01|02|03|04|
 |05|06|07|08|09|10|11|
 |12|13|14|15|16|17|18|
-19|20|21|<a style="color:#7eade6" rel="may22-2024" href="./may22-2024"><span>22</span></a>|23|24|25|
+19|20|21|<a style="color:#7eade6" rel="may22-2024" href="./may22-2024"><span><b>22</b></span></a>|<a style="color:#7eade6" rel="may22-2024" href="./may23-2024"><span><b>23</b></span></a>|24|25|
 26|27|28|29|30|31|
 
 <h2>JUN 2024</h2>
